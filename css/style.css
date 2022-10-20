@@ -19,3 +19,27 @@ h1 {
 	margin-right: 20px;
 	text-shadow: 2px 2px 2px rgb(150, 150, 20);
 }
+
+nav li {
+cursor: pointer;	
+}
+
+main {
+	width: 1000px;
+	margin: auto;
+}
+
+p {
+	width: 1000px;
+	margin: auto;
+}
+
+ul {
+	text-align: center;
+	margin: auto;
+}
+
+footer {
+	text-align: center;
+	margin: auto;
+}
